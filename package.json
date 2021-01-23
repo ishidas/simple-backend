@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "concurrently --kill-others \"npm run app:*\""
+    "start": "node index.js"
     ,
-    "app:db": "json-server --watch db.json",
     "app:start": "node index.js"
   },
   "repository": {

@@ -105,4 +105,4 @@ dist
 
 db.json
 
-*.csv
+shopifydata*
