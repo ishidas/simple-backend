@@ -4,7 +4,8 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const app = express();
 const cors = require('cors');
-const _ = require('lodash')
+const _ = require('lodash');
+
 app.use(cors());
 app.use(bodyParser.json())
 
