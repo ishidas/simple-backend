@@ -1,13 +1,14 @@
 # simple-backend
 
 ## Setup
-1. place your data at the root of the project (see example.csv)
-2.
+- place your data at the root of the project (see example.csv)
+
+
+## Run
 ```
 npm i
 ```
-
-## Run
+then
 ```
 npm start
 ```
